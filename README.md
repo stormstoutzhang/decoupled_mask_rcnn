@@ -49,4 +49,4 @@ Extraction Code: IVIP
 ```
 
 ## Acknowledgement
-Thanks Detectron2 team for the wonderful open source project!
+Thanks [**Detectron2**](https://github.com/facebookresearch/detectron2) team for the wonderful open source project!
