@@ -2,7 +2,7 @@
  
 ## Installation
 
-- Ubuntu 16.07
+- Ubuntu 16.04
 - CUDA 11.1
 
 ```
